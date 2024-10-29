@@ -5,7 +5,7 @@ I'm Liza!
 - 🏢 ...and looking for job positions as AI (ML) Engineer!
 - 🎨 In my free time I am fond of watercolor drawing and just wandering around some less known areas of Seoul (stop for a piece of cake included!)
 - 💬 Now I am developing LLM-powered services as side-projects and open to any types of collaboration :)
-- 📧 You an reach me by e-mail: caterlilu@gmail.com
+- 📧 You can reach me by e-mail: caterlilu@gmail.com
 
 
 ## My technical stack includes
