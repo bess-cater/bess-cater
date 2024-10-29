@@ -2,7 +2,7 @@
 I'm Liza!
 
 - 🎓 I’m graduating from Seoul Nat'l University of Science and Technology with Master's Degree in Data Science...
-- 🏢 ...and trying to get job as AI (ML) Engineer!
+- 🏢 ...and looking for job positions as AI (ML) Engineer!
 - 🎨 In my free time I am fond of watercolor drawing and just wandering around some less known areas of Seoul (stop for a piece of cake included!)
 
 
@@ -26,4 +26,5 @@ I'm Liza!
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
