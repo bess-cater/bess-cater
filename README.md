@@ -1,10 +1,12 @@
 ## Hi there 👋
 I'm Liza!
 
-- 🎓 I’m graduating from Seoul Nat'l University of Science and Technology with Master's Degree in Data Science...
+- 🎓 I’ve graduated from Seoul Nat'l University of Science and Technology with Master's Degree in Data Science
+  - Result of my studies: [A picture is worth a thousand words? Investigating the Impact of Image Aids in AR on Memory Recall for Everyday Tasks - IUI'25, Best Paper](https://dl.acm.org/doi/10.1145/3708359.3712087))
 - 🏢 ...and looking for job positions as AI (ML) Engineer!
 - 🎨 In my free time I am fond of watercolor drawing and just wandering around some less known areas of Seoul (stop for a piece of cake included!)
 - 💬 Now I am developing LLM-powered services as side-projects and open to any types of collaboration :)
+- I've also grown quite fond of Flutter lately
 - 📧 You can reach me by e-mail: caterlilu@gmail.com
 
 
@@ -25,10 +27,8 @@ I'm Liza!
 ## I am interested in
 (learning now)
 <div>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://cdn.brandfetch.io/idlyPQ26CT/theme/dark/id1Trutzw0.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
   
 </div>
